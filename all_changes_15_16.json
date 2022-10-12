@@ -1,6 +1,5 @@
 {
     "new_in_16.0": [
-
         "account_base_import",
         "appointment_hr",
         "appointment_sms",
@@ -141,6 +140,9 @@
         "website_sale_stock_renting",
         "website_sale_subscription"
     ],
+    
+    
+    
     "removed_in_16.0": [
         "account_accountant_check_printing",
         "account_asset_ndt",
